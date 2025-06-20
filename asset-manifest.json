@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/19_junio/static/css/main.d135e6cf.css",
+    "main.js": "/19_junio/static/js/main.d25bce2f.js",
+    "static/js/787.c8ac7851.chunk.js": "/19_junio/static/js/787.c8ac7851.chunk.js",
+    "static/media/mountains.jpg": "/19_junio/static/media/mountains.c7317ce465b4451e9eb1.jpg",
+    "static/media/airbnb-brands.svg": "/19_junio/static/media/airbnb-brands.048182c304f50af8d4fb209a004a4cb4.svg",
+    "index.html": "/19_junio/index.html",
+    "main.d135e6cf.css.map": "/19_junio/static/css/main.d135e6cf.css.map",
+    "main.d25bce2f.js.map": "/19_junio/static/js/main.d25bce2f.js.map",
+    "787.c8ac7851.chunk.js.map": "/19_junio/static/js/787.c8ac7851.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d135e6cf.css",
+    "static/js/main.d25bce2f.js"
+  ]
+}
